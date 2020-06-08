@@ -1,4 +1,4 @@
-$('a.burger').click(function() {
+$('.header-right > a').click(function() {
   $('div.hamburger-menu').addClass('active');
 });
 
